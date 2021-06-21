@@ -1,0 +1,19 @@
+{
+	"lang": "pt",
+	"owner": ["553185608204@c.us", "551398....@c.us"],
+	"ddi": "55",
+	"prefix": "/",
+	"apifla": "640f139d3a734b2a837e5479a5e64f83",
+	"nobg": "FjvFiVVP3uikm3fP4XFUZiVE",
+	"wallhv": "API-KEY WALLHAVEN",
+	"deepai": "API-KEY DEEPAI",
+	"gpLimit": "10",
+	"memberReq": "1",
+	"author": "by @pedro.reiso",
+	"pack": "Taiga–BOT | Helper",
+	"userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.93 Safari/537.36",
+	"timePlay": "30",
+	"antiFlood": "10",
+	"maxSize": "16",
+	"WinTime": "60"
+}
